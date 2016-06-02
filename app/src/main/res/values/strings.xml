@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HeadFirstAndroid</string>
+    <string name="hello_world">sup doge!!</string>
+    <string name="action_settings">Settings</string>
+</resources>
