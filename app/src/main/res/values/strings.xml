@@ -11,4 +11,8 @@
         <item>Brown</item>
         <item>Dark</item>
     </string-array>
+    <string name="title_activity_create_message">CreateMessageActivity</string>
+    <string name="send_message">Send Message</string>
+    <string name="title_activity_receive_message">ReceiveMessageActivity</string>
+    <string name="chooser">Send Message...</string>
 </resources>
