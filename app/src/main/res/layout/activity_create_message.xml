@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="com.hfad.messenger.CreateMessageActivity">
+    tools:context="com.hfad.ch3messenger.CreateMessageActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"

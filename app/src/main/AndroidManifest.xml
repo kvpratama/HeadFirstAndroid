@@ -14,12 +14,12 @@
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
         <activity
-            android:name="com.hfad.beeradviser.FindBeerActivity"
+            android:name="com.hfad.ch2beeradviser.FindBeerActivity"
             android:label="@string/title_activity_find_beer"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
         <activity
-            android:name="com.hfad.messenger.CreateMessageActivity"
+            android:name="com.hfad.ch3messenger.CreateMessageActivity"
             android:label="@string/title_activity_create_message"
             android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
@@ -28,7 +28,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.hfad.messenger.ReceiveMessageActivity"
+            android:name="com.hfad.ch3messenger.ReceiveMessageActivity"
             android:label="@string/title_activity_receive_message"
             android:theme="@style/AppTheme.NoActionBar" />
     </application>

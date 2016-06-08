@@ -1,4 +1,4 @@
-package com.hfad.beeradviser;
+package com.hfad.ch2beeradviser;
 
 import java.util.ArrayList;
 import java.util.List;
